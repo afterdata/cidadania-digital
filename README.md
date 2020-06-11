@@ -1,7 +1,5 @@
 # Cidadania Digital
 
-![Logo do AfterData](https://afterdata.in/images/logo.png)
-
 Oi, tudo bem?! Seja bem vindo a um dos meios de comunicação do [AfterData](https://afterdata.in), se você está nos conhecendo agora você pode acessar o site e ver um pouco do nosso trabalho, que consiste em formar uma comunidade auto sustentável para a região sobre os assuntos que norteiam o tema de Data Science.
 
 Mas como você deve ter percebido esse repositório não tem um intuito tão técnico, primeiramente se você não conhece o [GitHub](http://github.com/) e o seu propósito, seria interessante ler um Guia sobre o seu uso para Educação e Pesquisa [clicando aqui](https://help.github.com/pt/github/teaching-and-learning-with-github-education/using-github-in-your-classroom-and-research).
