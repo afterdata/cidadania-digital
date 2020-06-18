@@ -1,3 +1,9 @@
+## MENU
+
+1 - Vamos conversar sobre privacidade e segurança no Mundo Digital? [Clique aqui](privacidade-seguranca) e acesse a pasta **privacidade-seguranca**, sinta-se livre para criar novos arquivos e discussões.
+
+_Lembrando que se você deseja colaborar com o AfterData e necessita de ajuda com Github, arquivos de ajudo podem ser [encontradas aqui](https://github.com/afterdata/associacao)._
+
 # Cidadania Digital
 
 Oi, tudo bem?! Seja bem vindo a um dos meios de comunicação do [AfterData](https://afterdata.in), se você está nos conhecendo agora você pode acessar o site e ver um pouco do nosso trabalho, que consiste em formar uma comunidade auto sustentável para a região sobre os assuntos que norteiam o tema de Data Science.
@@ -17,13 +23,14 @@ E não queremos parar por ai, um de nossos embaixadores [Enderson Menezes](https
 ## O que você vai encontrar nesse repositório?
 
 Aqui iremos centralizar e produzir conteúdo a respeito dos seguintes temas como parte do projeto:
+
 - Bem-estar digital;
 - Segurança digital;
 - Checagem de Informação na Internet;
 
 Porém você poderá encontrar outros assuntos que abrangem o uso da internet e suas atribuições.
 
-O projeto da Safernet é focado em promover ações para adolescentes da rede pública de nosso país, mas todo conteúdo produzido e indexado não se limitará a isso. O AfterData sempre procurou promover a informação de **livre acesso e colaboração**, sintam-se livres para enviar conteúdos que desejam adicionar aqui.
+O projeto da SaferNet é focado em promover ações para adolescentes da rede pública de nosso país, mas todo conteúdo produzido e indexado não se limitará a isso. O AfterData sempre procurou promover a informação de **livre acesso e colaboração**, sintam-se livres para enviar conteúdos que desejam adicionar aqui.
 
 ## Como posso colaborar?
 
