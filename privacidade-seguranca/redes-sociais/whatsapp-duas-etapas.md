@@ -5,7 +5,7 @@
 
 # Texto
 
-
+Para ativar a confirmação em duas etapas, abra o aplicativo **Whatsapp** em seu celular, e então procure o seguinte botão: Configurações (Android) / Ajustes (iOS), clique em Conta > procure a opção Confirmação em duas etapas > ATIVAR.
 
 # Porque?
 
