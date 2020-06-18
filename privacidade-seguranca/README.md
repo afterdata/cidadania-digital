@@ -10,7 +10,7 @@ Nossa equipe antes de iniciar uma discussão e mobilização a respeito da **'Pr
 
 [![Kids Online Brasil 2018](http://img.youtube.com/vi/4tdxdnwdEGY/0.jpg)](http://www.youtube.com/watch?v=4tdxdnwdEGY)
 
-Pesquisas conduzidas pela [NIC.br](https://nic.br/) indicam felizmente que **86%** das crianças e adolescentes brasileiros são usuários da internet, a sua maioria com atividades multimídia (vídeos, séries, músicas...), temos ainda em exibição a disparidade desse número quando comparamos classes financeiras das famílias e/ou local de moradia (rural/urbano), o que nos faz enxergar que ainda temos muito trabalho pelo Brasil para realmente ter uma **informação de livre e total acesso por todos.**
+Pesquisas conduzidas pela [NIC.br](https://nic.br/) indicam felizmente que **86%** das crianças e adolescentes brasileiras são usuárias da internet, a sua maioria com atividades multimídia (vídeos, séries, músicas...), temos ainda em exibição a disparidade desse número quando comparamos classes financeiras das famílias e/ou local de moradia (rural/urbano), o que nos faz enxergar que ainda temos muito trabalho pelo Brasil para realmente ter uma **informação de livre e total acesso por todos.**
 
 
 
