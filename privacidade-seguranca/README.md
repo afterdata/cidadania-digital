@@ -33,3 +33,9 @@ O teste acima mostra como seu navegador deixa espalhado vários dados e informa�
 ## Imagens para Divulgar com os Amigos!
 
 Divulgue em suas redes sociais o seguinte link [https://bit.ly/seguro-na-rede](https://bit.ly/seguro-na-rede) e utilize qualquer uma das imagens abaixo, você fica seguro e os seus amigos também!
+
+
+
+![](C:\Users\ender\OneDrive\Cidadao-Digital\cidadania-digital-1.jpg)
+
+![](C:\Users\ender\OneDrive\Cidadao-Digital\cidadania-digital-2-whatsapp.jpeg)
