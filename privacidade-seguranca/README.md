@@ -36,6 +36,6 @@ Divulgue em suas redes sociais o seguinte link [https://bit.ly/seguro-na-rede](h
 
 
 
-![](imagens\cidadania-digital-1.jpg)
+![Imagem para Divulgação 1](imagens\cidadania-digital-1.jpg)
 
-![](imagens\cidadania-digital-2-whatsapp.jpeg)
+![Imagem para Divulgação 2](imagens\cidadania-digital-2-whatsapp.jpeg)
