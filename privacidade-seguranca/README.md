@@ -12,8 +12,6 @@ Nossa equipe antes de iniciar uma discussão e mobilização a respeito da **'Pr
 
 Pesquisas conduzidas pela [NIC.br](https://nic.br/) indicam felizmente que **86%** das crianças e adolescentes brasileiras são usuárias da internet, a sua maioria com atividades multimídia (vídeos, séries, músicas...), temos ainda em exibição a disparidade desse número quando comparamos classes financeiras das famílias e/ou local de moradia (rural/urbano), o que nos faz enxergar que ainda temos muito trabalho pelo Brasil para realmente ter uma **informação de livre e total acesso por todos.**
 
-
-
 ## Configurações de Redes Sociais
 
 ![](https://www.safernet.org.br/site/sites/default/files/unnamed.png)
@@ -22,13 +20,11 @@ Pesquisas conduzidas pela [NIC.br](https://nic.br/) indicam felizmente que **86%
 
 ![](https://www.safernet.org.br/site/sites/default/files/unnamed%20(1).png)
 
-
-
 Com esses dados podemos ver que o trabalho de conscientização é uma importante etapa que deve estar alinhada com a abrangência do acesso a internet.
 
 ## E você possui controle sobre seus dados na internet?
 
-[![Privacy Test ](imagens/privacy-test.png)](https://privacy.net/analyzer/)
+[<img src="imagens/privacy-test.png" title="" alt="Privacy Test " data-align="center">](https://privacy.net/analyzer/)
 
 O teste acima mostra como seu navegador deixa espalhado vários dados e informações *sensíveis* sobre você, e você com certeza vai ficar horrorizado com o resultados.
 
