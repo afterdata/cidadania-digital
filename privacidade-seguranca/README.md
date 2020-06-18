@@ -28,7 +28,7 @@ Com esses dados podemos ver que o trabalho de conscientização é uma important
 
 ## E você possui controle sobre seus dados na internet?
 
-[![Privacy Test ](C:\Users\ender\Desktop\Screenshot_1.png)](https://privacy.net/analyzer/)
+[![Privacy Test ](imagens/privacy-test.png)](https://privacy.net/analyzer/)
 
 O teste acima mostra como seu navegador deixa espalhado vários dados e informações *sensíveis* sobre você, e você com certeza vai ficar horrorizado com o resultados.
 
