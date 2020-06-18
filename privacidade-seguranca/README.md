@@ -33,3 +33,7 @@ Com esses dados podemos ver que o trabalho de conscientização é uma important
 O teste acima mostra como seu navegador deixa espalhado vários dados e informações *sensíveis* sobre você, e você com certeza vai ficar horrorizado com o resultados.
 
 **Para auxiliar o movimento de controle sobre dados e informações pessoais** o AfterData está subindo nesse repositório alguns guias sobre como controlar informações nas redes sociais mais conhecidas, e caso tenha alguma que não se encontra aqui, você pode realizar um pedido para nós [clicando aqui](https://github.com/afterdata/cidadania-digital/issues/new), ou você mesmo pode criar um novo arquivo com o Guia [clicando aqui](https://github.com/afterdata/cidadania-digital/new/master/privacidade-seguranca/redes-sociais).
+
+## Imagens para Divulgar com os Amigos!
+
+Divulgue em suas redes sociais o seguinte link [https://bit.ly/seguro-na-rede](https://bit.ly/seguro-na-rede) e utilize qualquer uma das imagens abaixo, você fica seguro e os seus amigos também!
