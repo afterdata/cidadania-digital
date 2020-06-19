@@ -11,6 +11,11 @@ Para ativar a confirmação em duas etapas, abra o aplicativo **Whatsapp** em se
 
 Ao ativar a confirmação em duas etapas, seu número só poderá ser confirmado novamente no WhatsApp depois de 7 dias que você usou o WhatsApp sem seu PIN pela última vez. Desse modo, se você esquecer seu PIN e não tiver fornecido um e-mail para desativar a confirmação em duas etapas, você não poderá confirmar seu número no WhatsApp no prazo de 7 dias sem usar o WhatsApp. Após esse período, você poderá confirmar seu número novamente no WhatsApp sem seu PIN, mas você perderá todas as suas mensagens pendentes, pois elas serão apagadas.
 
+# Tive o WHATSAPP Clonado, e agora?
+Faça um contato solicitando ajuda pelo e-mail: **“support@whatsapp.com”**
+
+No email enviado você deve explicar que teve seu celular roubado ou perdido e informar o número de telefone no qual está cadastrada a conta. Esse passo deve ser realizado em formato internacional para que sua solicitação seja atendida. Isso quer dizer que você precisará adicionar o DDI, o DDD e o número do telefone, no seguinte formato: +55 11 99999-9999, por exemplo.
+
 Fonte: [FAQ WhatsApp](https://faq.whatsapp.com/general/verification/using-two-step-verification?lang=pt_br)
 # Compartilhe com os amigos!
 
