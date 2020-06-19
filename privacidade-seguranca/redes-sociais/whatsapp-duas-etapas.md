@@ -16,7 +16,7 @@ Fonte: [FAQ WhatsApp](https://faq.whatsapp.com/general/verification/using-two-st
 # Tive o WHATSAPP Clonado, e agora?
 Faça um contato solicitando ajuda pelo e-mail: **“support@whatsapp.com”**, inserindo a seguinte frase no e-mail: **"Perdido/Roubado: Por favor, desative minha conta"**
 
-No email enviado você deve explicar que teve seu celular roubado ou perdido e informar o número de telefone no qual está cadastrada a conta. Esse passo deve ser realizado em formato internacional para que sua solicitação seja atendida. Isso quer dizer que você precisará adicionar o DDI, o DDD e o número do telefone, no seguinte formato: +55 11 99999-9999, por exemplo.
+No corpo do e-mail você deve informar o número de telefone no qual está cadastrada a conta. Esse passo deve ser realizado em formato internacional para que sua solicitação seja atendida. Isso quer dizer que você precisará adicionar o DDI, o DDD e o número do telefone, no seguinte formato: +55 11 99999-9999, por exemplo.
 
 Fonte: [FAQ WhatsApp](https://faq.whatsapp.com/general/account-and-profile/lost-and-stolen-phones)
 # Compartilhe com os amigos!
